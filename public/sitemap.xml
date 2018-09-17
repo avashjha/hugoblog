@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tech/apple/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/s9/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/samsung/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/mi/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/acer/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/asus/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/kathmandu/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/news/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-09-17T08:25:22+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/</loc>
+    <lastmod>2018-09-17T08:26:04+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/techs/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

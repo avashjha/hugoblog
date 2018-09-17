@@ -1,0 +1,11 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Hugo Site"
+copyright = "All right reserved  @ AVASH JHA 2018 "
+sectionPagesMenu = "main"
+[taxonomies]
+    tag="tags"
+    category="categories"
+    new = "news"
+    tech = "techs"
+
