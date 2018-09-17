@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://cranky-mcnulty-29c255.netlify.com/"
 languageCode = "en-us"
 title = "Hugo Blog by avash"
 copyright = "All right reserved  @ AVASH JHA 2018 "
