@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hugo Blog by avash"
 copyright = "All right reserved  @ AVASH JHA 2018 "
 sectionPagesMenu = "main"
 [taxonomies]
